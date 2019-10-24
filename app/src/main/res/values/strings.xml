@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Name:
+        \nChuah Phei Shuen
+        \n\nAddress:
+        \nNo G-11.Jalan Ikhlas 1,Taman Ikhlas, Bandar Sungai Long, 43000 Kajang, Selangor.
+        \n\nEducation:
+        \n\tTunku Abdul Rahman University College
+        \n\t-Diploma in Computer Science and Computer Mathematics(2017-2019)
+        \n\t-Bachelor in Software Engineering(2019-Present)
+        \n\nAge:
+        \n20
+        \n\nDate of Birth:
+        \n10/10/1999
+
+    </string>
+</resources>
